@@ -1,0 +1,4 @@
+Email address: admin@admin.com
+
+Username:admin
+password:admin2021
